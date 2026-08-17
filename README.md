@@ -260,7 +260,6 @@ The MVP will be built with mock data first so the application can be tested befo
 ---
 
 ## Roadmap
-
 ### Phase 1 — Foundation
 
 - [x] Repository setup
